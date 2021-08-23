@@ -1,13 +1,13 @@
 [
-	{
+    {
 		"controllerType":"Node",
-		"downloadUrl":"https://gitee.com/fgood/maven/raw/master/plugin-libs/webTools/x-ShortURL-0.0.1.jar",
+		"downloadUrl":"https://gitee.com/fgood/maven/raw/master/plugin-libs/nascentTools/nascent-generator-1.0.1.jar",
 		"isFavorite":false,
 		"isMenu":false,
-		"jarName":"x-ShortURL",
-		"name":"网址缩短",
-		"synopsis":"网址缩短(目前支持百度、新浪、缩我等短网址缩短)",
-		"version":"0.0.1",
+		"jarName":"nascent-generator",
+		"name":"南讯微服务代码生成器（基于Mybatis）",
+		"synopsis":"南讯微服务代码生成器（基于Mybatis）",
+		"version":"1.0.1",
 		"versionNumber":1
 	}
 ]
