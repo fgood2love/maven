@@ -1,7 +1,7 @@
 [
     {
 		"controllerType":"Node",
-		"downloadUrl":"https://gitee.com/fgood/maven/raw/master/plugin-libs/nascentTools/nascent-generator-1.0.2.jar",
+		"downloadUrl":"https://raw.githubusercontent.com/fgood2love/maven/main/plugin-libs/nascentTools/nascent-generator-1.0.2.jar",
 		"isFavorite":false,
 		"isMenu":false,
 		"jarName":"nascent-generator",
