@@ -1,13 +1,13 @@
 [
     {
 		"controllerType":"Node",
-		"downloadUrl":"https://gitee.com/fgood/maven/raw/master/plugin-libs/nascentTools/nascent-generator-1.0.1.jar",
+		"downloadUrl":"https://gitee.com/fgood/maven/raw/master/plugin-libs/nascentTools/nascent-generator-1.0.2.jar",
 		"isFavorite":false,
 		"isMenu":false,
 		"jarName":"nascent-generator",
 		"name":"南讯微服务代码生成器（基于Mybatis）",
 		"synopsis":"南讯微服务代码生成器（基于Mybatis）",
-		"version":"1.0.1",
+		"version":"1.0.2",
 		"versionNumber":1
 	}
 ]
